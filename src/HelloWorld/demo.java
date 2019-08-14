@@ -33,6 +33,14 @@ public class demo {
         int c=a+b;
         System.out.println("c");
     }
+
+    public void test2(){
+        int a=5;
+        int b=6;
+        int c=a+b;
+        System.out.println("c");
+    }
+
 }
 
 
